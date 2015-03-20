@@ -1,0 +1,9 @@
+{
+	"name": "file_uploader_with_nodejs",
+	"version": "0.0.1",
+	"dependencies": {
+		"express": "~4.11.2",
+		"multer": "~0.1.6",
+		"bootstrap": "~3.3.4"
+	}
+}
